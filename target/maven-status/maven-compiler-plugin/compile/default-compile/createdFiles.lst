@@ -1,0 +1,5 @@
+br/com/vendas/RelatorioDAO.class
+br/com/vendas/ProdutoDAO.class
+br/com/vendas/VendaDAO.class
+br/com/vendas/Conexao.class
+br/com/vendas/Main.class
